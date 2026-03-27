@@ -1,0 +1,4 @@
+code;locale;name;descr
+001;en;Created;Order created
+002;en;In process;Work in progress
+003;en;Finished;Order finished

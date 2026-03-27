@@ -1,0 +1,6 @@
+ID;number;description;to_status_code;to_equipment_equipmentId;notes;duration;orderValue;currency_code;to_mechanic_mechanicId
+78dcd2e5-9b2e-4a83-b696-d5288326a395;10001001;Planned part replacement;001;EQ-001;Need change affected part;5;0;USD;ENG-001
+53a174a9-4753-4b25-82c3-0d614bf1d512;10001002;Emergency engine change;002;EQ-002;Engine blow up need to change;5;0;USD;ENG-002
+7cac8999-82af-4286-8a6d-296f524679ac;10001003;Oil filter change;003;EQ-003;Black smoke means oil filter needs change;5;0;USD;ENG-001
+29f619db-4793-4953-9789-9593d25a60f5;10001004;Wheels change;001;EQ-004;Flat tire;5;0;USD;ENG-002
+b8a78f71-bc65-4f3d-9060-fd7f8158d065;10001005;Air filter check;001;EQ-005;Low airflow indicates saturated filter;5;0;USD;ENG-001

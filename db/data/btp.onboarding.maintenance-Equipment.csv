@@ -1,0 +1,6 @@
+equipmentId;name;description;category;status;available;acquisitionCost;currency_code
+EQ-001;High Ton Truck;300 Tons Mining Truck;Transportation;Operative;true;200000;USD
+EQ-002;Industrial Drill;Drifter Drill Tool;Drilling & Perforation;Repairing;true;100000;USD
+EQ-003;High Ton Truck;300 Tons Mining Truck;Transportation;Operative;true;200000;USD
+EQ-004;High Ton Truck;300 Tons Mining Truck;Transportation;Repairing;true;200000;USD
+EQ-005;Industrial Drill;Drifter Drill Tool;Drilling & Perforation;Operative;false;100000;USD
